@@ -1,0 +1,6 @@
+word,label,confidence,reason
+प्रॉब्लम,incorrect,low,Rare word with weak lexical evidence
+अच्छा,incorrect,low,Rare word with weak lexical evidence
+गया,incorrect,low,Rare word with weak lexical evidence
+कियाआआ,incorrect,low,Rare word with weak lexical evidence
+खरीदीं,incorrect,low,Rare word with weak lexical evidence

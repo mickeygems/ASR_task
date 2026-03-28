@@ -1,0 +1,12 @@
+word,label,confidence,reason
+किताबें,correct,medium,Looks morphologically plausible
+खरीदीं,incorrect,low,Rare word with weak lexical evidence
+इंटरव्यू,correct,high,Accepted Devanagari form of spoken English
+जॉब,correct,high,Accepted Devanagari form of spoken English
+कंप्यूटर,correct,high,Accepted Devanagari form of spoken English
+अच्छा,incorrect,low,Rare word with weak lexical evidence
+गया,incorrect,low,Rare word with weak lexical evidence
+प्रॉब्लम,incorrect,low,Rare word with weak lexical evidence
+करना,correct,medium,Looks morphologically plausible
+कियाआआ,incorrect,low,Rare word with weak lexical evidence
+interview,incorrect,high,Contains non-Devanagari symbols

@@ -1,0 +1,6 @@
+model,classic_wer,lattice_wer,delta
+model_a,0.4333,0.2167,0.2167
+model_b,0.1667,0.0833,0.0833
+model_c,0.2333,0.0833,0.1500
+model_d,0.1500,0.0000,0.1500
+model_e,0.0000,0.0833,-0.0833
